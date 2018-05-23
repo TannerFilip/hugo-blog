@@ -14,7 +14,8 @@ relativeUrls = true
   HeaderUsername = "visitor"
   headerhostname = "tannerfilip.org"
   Email = "tannerfilip@gmail.com"
-  About = "Hi, I'm Tanner. I'm a student at the University of Northern Iowa studying political science. I have been a contributor to the Mozilla project since mid 2008. "
+  CvURL = "/resume.pdf"
+  About = "Hi, I'm Tanner. I am a student at Western Governors University, studying Cloud & Systems Administration. I've been a contributor to the Mozilla project since 2008."
 
 [menu]
   [[menu.header]]
